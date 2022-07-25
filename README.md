@@ -2,6 +2,7 @@
 - [ ] Gmail:omwtbarca (please feel free to mail me :) )
 
 [![Chem1.0](https://img.shields.io/badge/Chem-1.0-192133?style=flat-square)](https://github.com/omwtbarca/Chem1.0)[![Project ZIC](https://img.shields.io/badge/Project-ZIC-192133?style=flat-square)](https://github.com/omwtbarca/Project-ZIC)
+[![Chem2.0](https://img.shields.io/badge/Chem-2.0-192133?style=flat-square)](https://github.com/omwtbarca/Chem2.0)[![Ezra](https://img.shields.io/badge/Ezra-1.0-192133?style=flat-square)](https://github.com/omwtbarca/Ezra)
 
 <div align="center"> <img src="https://metrics.lecoq.io/omwtbarca?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=omwtbarca" /> </div>
