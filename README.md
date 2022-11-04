@@ -2,7 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Bruno Leopold</h1>
+         
 ## Pride in Battle!🎉
+
 📧: <omwtbarca@gmail.com> (please feel free to mail me :) )
 - [ ] check more [here](https://withkoji.com/@Bruno_Leopold)
 
