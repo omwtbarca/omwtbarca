@@ -3,6 +3,8 @@
          height="45"
          width="45" /> I'm Bruno Leopold</h1>
          
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omwtbarca&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EzraKnotLab&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 ## Pride in Battle!🎉
 
 📧: <omwtbarca@gmail.com> (please feel free to mail me :) )
