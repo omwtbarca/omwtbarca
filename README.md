@@ -8,7 +8,7 @@
 ## Pride in Battle!🎉
 
 📧: <omwtbarca@gmail.com> (please feel free to mail me :) )
-- [ ] check more [My Blog]([https://omwtbarca.mysxl.cn/](https://ezraknotlab.github.io/))
+- [ ] check more [My Blog](https://ezraknotlab.github.io/)
 
 [![Chem1.0](https://img.shields.io/badge/Chem-1.0-192133?style=flat-square)](https://github.com/omwtbarca/Chem1.0)[![Project ZIC](https://img.shields.io/badge/Project-ZIC-192133?style=flat-square)](https://github.com/omwtbarca/Project-ZIC)
 [![Chem2.0](https://img.shields.io/badge/Chem-2.0-192133?style=flat-square)](https://github.com/omwtbarca/Chem2.0)[![Ezra](https://img.shields.io/badge/Ezra-1.0-192133?style=flat-square)](https://github.com/omwtbarca/Ezra)
@@ -34,6 +34,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzraKnotLab&theme=vue"/>
 </p>
 <p align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=omwtbarca&theme=default&date_format=%5BY.%5Dn.j#gh-dark-mode-only" />
     <img src="https://ssr-contributions-svg.vercel.app/_/omwtbarca?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=sunset&widget_size=medium"/>
 </p>  
