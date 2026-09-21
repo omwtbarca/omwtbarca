@@ -68,6 +68,7 @@ and maintaining <a href="https://github.com/AtomRearch/neware-batch-export">newa
 <p align="center">
 📧: <a href="mailto:omwtbarca@gmail.com">omwtbarca@gmail.com</a><br>
 (please feel free to mail me :) )<br>
+X: <a href="https://x.com/KDkeepdoing">@KDkeepdoing</a><br>
 check more <a href="https://ezraknotlab.github.io/">My Blog</a>
 </p>
 
