@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 44" width="1280" height="44" aria-hidden="true">
+<defs>
+<linearGradient id="a" x1="340" x2="600" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".55" stop-color="#fff"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<linearGradient id="b" x1="680" x2="940" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset=".45" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="l" maskUnits="userSpaceOnUse" x="0" y="0" width="1280" height="44"><rect width="1280" height="44" fill="url(#a)"/></mask>
+<mask id="r" maskUnits="userSpaceOnUse" x="0" y="0" width="1280" height="44"><rect width="1280" height="44" fill="url(#b)"/></mask>
+</defs>
+<g fill="none" stroke="#857D6D" stroke-linecap="round">
+<path d="M360 22L366 24.2L372 25.9L378 26.9L384 26.9L390 25.9L396 24.2L402 22L408 19.8L414 18.1L420 17.1L426 17.1L432 18.1L438 19.8L444 22L450 24.2L456 25.9L462 26.9L468 26.9L474 25.9L480 24.2L486 22L492 19.8L498 18.1L504 17.1L510 17.1L516 18.1L522 19.8L528 22L534 24.2L540 25.9L546 26.9L552 26.9L558 25.9L564 24.2L570 22L576 19.8L582 18.1L588 17.1L594 17.1L600 18.1L606 19.8" mask="url(#l)" stroke-width="2.2" stroke-dasharray="0 6.2"/>
+<path d="M670 22L676 24.2L682 25.9L688 26.9L694 26.9L700 25.9L706 24.2L712 22L718 19.8L724 18.1L730 17.1L736 17.1L742 18.1L748 19.8L754 22L760 24.2L766 25.9L772 26.9L778 26.9L784 25.9L790 24.2L796 22L802 19.8L808 18.1L814 17.1L820 17.1L826 18.1L832 19.8L838 22L844 24.2L850 25.9L856 26.9L862 26.9L868 25.9L874 24.2L880 22L886 19.8L892 18.1L898 17.1L904 17.1L910 18.1L916 19.8" mask="url(#r)" stroke-width="2.2" stroke-dasharray="0 6.2"/>
+<circle cx="640.0" cy="22.0" r="5.4" stroke-width="1.3"/>
+<circle cx="640.0" cy="22.0" r="1.6" fill="#857D6D" stroke="none"/>
+<circle cx="616.0" cy="22.0" r="1.5" fill="#857D6D" stroke="none"/>
+<circle cx="664.0" cy="22.0" r="1.5" fill="#857D6D" stroke="none"/>
+</g>
+</svg>
