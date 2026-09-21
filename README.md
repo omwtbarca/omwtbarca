@@ -1,33 +1,110 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Bruno Leopold</h1>
-         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omwtbarca&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EzraKnotLab&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
-## Pride in Battle!🎉
+<div align="center">
 
-📧: <omwtbarca@gmail.com> (please feel free to mail me :) )
-- [ ] check more [My Blog](https://ezraknotlab.github.io/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" alt="Ezra. Tools, notes and data from EzraKnotLab and AtomRearch." width="100%">
+</picture>
 
-[![Chem1.0](https://img.shields.io/badge/Chem-1.0-192133?style=flat-square)](https://github.com/omwtbarca/Chem1.0)[![Project ZIC](https://img.shields.io/badge/Project-ZIC-192133?style=flat-square)](https://github.com/omwtbarca/Project-ZIC)
-[![Chem2.0](https://img.shields.io/badge/Chem-2.0-192133?style=flat-square)](https://github.com/omwtbarca/Chem2.0)[![Ezra](https://img.shields.io/badge/Ezra-1.0-192133?style=flat-square)](https://github.com/omwtbarca/Ezra)
+<br>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=omwtbarca" /> </div>
+<i>Pride in Battle!🎉</i>
 
+</div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omwtbarca" /> </div>
+<br>
 
-## 近期汇总 ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=omwtbarca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwtbarca&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omwtbarca&theme=vue"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg">
+  <img src="./assets/section-about-light.svg" alt="About" width="480">
+</picture>
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzraKnotLab&theme=vue"/>
+I make small tools for reading, writing<br>
+and handling data, and keep the notes<br>
+they leave behind on a blog.<br>
+Most of the work lives at <a href="https://github.com/AtomRearch">AtomRearch</a>;<br>
+the rest is here and at <a href="https://github.com/EzraKnotLab">EzraKnotLab</a>.
 </p>
+
 <p align="center">
-    <img src="https://ssr-contributions-svg.vercel.app/_/omwtbarca?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=sunset&widget_size=medium"/>
-</p>  
+<i>Now:</i> building <a href="https://github.com/AtomRearch/AtomBook">AtomBook</a>, a minimal<br>
+single-file EPUB reader for the web,<br>
+and maintaining <a href="https://github.com/AtomRearch/neware-batch-export">neware-batch-export</a>.
+</p>
+
+<br>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-work-dark.svg">
+  <img src="./assets/section-work-light.svg" alt="Selected work" width="480">
+</picture>
+</p>
+
+<p align="center">
+<a href="https://github.com/AtomRearch/neware-batch-export"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-neware-dark.svg"><img src="./assets/card-neware-light.svg" alt="neware-batch-export: Neware .ndax files in, a complete 8-sheet .xlsx out. GUI and parallel processing." width="400"></picture></a>
+<a href="https://github.com/AtomRearch/AtomGrid"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-atomgrid-dark.svg"><img src="./assets/card-atomgrid-light.svg" alt="AtomGrid: Rosetta v0.1, a JSON Schema for cell cycling data, with a browser validator." width="400"></picture></a>
+<a href="https://github.com/EzraKnotLab/model-viewer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-modelviewer-dark.svg"><img src="./assets/card-modelviewer-light.svg" alt="model-viewer: a browser 3D viewer for VASP and Gaussian structures, with fixed and relaxable atoms in two colours." width="400"></picture></a>
+<a href="https://github.com/AtomRearch/AtomBrief"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-atombrief-dark.svg"><img src="./assets/card-atombrief-light.svg" alt="AtomBrief: RSS in, weekly report out, with keyword filtering and LLM distillation." width="400"></picture></a>
+<a href="https://github.com/AtomRearch/AtomPub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-atompub-dark.svg"><img src="./assets/card-atompub-light.svg" alt="AtomPub: a journal-styled writing platform with permanent URLs and citable IDs." width="400"></picture></a>
+<a href="https://github.com/omwtbarca/Productivity-Hub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-hub-dark.svg"><img src="./assets/card-hub-light.svg" alt="Productivity-Hub: a local-first workbench with timer, tasks, flashcards and a reading queue. No backend, no tracking." width="400"></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/AtomRearch">More on AtomRearch →</a>
+</p>
+
+<br>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-find-dark.svg">
+  <img src="./assets/section-find-light.svg" alt="Find me" width="480">
+</picture>
+</p>
+
+<p align="center">
+📧: <a href="mailto:omwtbarca@gmail.com">omwtbarca@gmail.com</a><br>
+(please feel free to mail me :) )<br>
+check more <a href="https://ezraknotlab.github.io/">My Blog</a>
+</p>
+
+<br>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-summary-dark.svg">
+  <img src="./assets/section-summary-light.svg" alt="Github Profile Summary Card" width="480">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omwtbarca&amp;theme=noctis_minimus">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omwtbarca&amp;theme=default" alt="omwtbarca profile details" width="640">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzraKnotLab&amp;theme=noctis_minimus">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzraKnotLab&amp;theme=default" alt="EzraKnotLab profile details" width="640">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/omwtbarca?chart=3dbar&amp;gap=0.6&amp;scale=2&amp;flatten=2&amp;animation=wave&amp;animation_duration=3&amp;animation_delay=0.03&amp;animation_amplitude=24&amp;animation_frequency=0.1&amp;animation_wave_center=19_3&amp;format=svg&amp;weeks=40&amp;widget_size=medium&amp;dark=true&amp;colors=24201C,433830,74594E,A98679,D9B3A5">
+  <img src="https://ssr-contributions-svg.vercel.app/_/omwtbarca?chart=3dbar&amp;gap=0.6&amp;scale=2&amp;flatten=2&amp;animation=wave&amp;animation_duration=3&amp;animation_delay=0.03&amp;animation_amplitude=24&amp;animation_frequency=0.1&amp;animation_wave_center=19_3&amp;format=svg&amp;weeks=40&amp;widget_size=medium&amp;colors=EDE8DC,E3D3C8,D2B8AB,BC9688,93695C" alt="omwtbarca contribution chart" width="780">
+</picture>
+</p>
+
+<div align="center">
+
+<br>
+
+<img src="./assets/divider.svg" width="64%" alt="">
+
+<img src="https://komarev.com/ghpvc/?username=omwtbarca&amp;label=Views&amp;color=857D6D&amp;style=flat-square" alt="Profile views: omwtbarca">&ensp;<img src="https://komarev.com/ghpvc/?username=EzraKnotLab&amp;label=Views&amp;color=857D6D&amp;style=flat-square" alt="Profile views: EzraKnotLab">
+
+</div>
